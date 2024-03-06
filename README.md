@@ -7,8 +7,8 @@
  Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)  
 - 📫 How to reach me cloud.haseeb69@gmail.com
 - ⚡ Fun fact I am Extrovert
-- Languages and Tools:
--![download](https://github.com/HaseebUllah-DevOps/HaseebUllah-DevOps/assets/161103272/c0c34ea7-1793-4892-9b4b-aeca4797046e)
+- 
+
 
   
 
