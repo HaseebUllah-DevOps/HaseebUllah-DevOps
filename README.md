@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseebullah-devops&label=Profile%20views&color=0e75b6&style=flat" alt="haseebullah-devops" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haseebullah-devops" alt="haseebullah-devops" /></a> </p>
-
 - 🔭 I’m currently working on **Terraform-for-AWS**
 
 - 🌱 I’m currently learning **Kubernetes**
@@ -30,23 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haseebullah-devops&show_icons=true&locale=en" alt="haseebullah-devops" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebullah-devops&" alt="haseebullah-devops" /></p>
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966](https://github.com/HaseebUllah-DevOps/HaseebUllah-DevOps/assets/161103272/713b1159-bec6-4f65-865a-15ff8a7f9cfb)
-                                                                                                                 
-- Hi 👋, I'm  HaseebUllah from pakistan 
-- 👀 I’m interested in AWS                                                             
-- 🌱 I’m currently learning Kubernetes
-- 💬 Ask me about DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity,  
- Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)  
-- 📫 How to reach me cloud.haseeb69@gmail.com
-- ⚡ Fun fact I am Extrovert
-- 
-
-
-  
-
-
-
-<!---
-HaseebUllah-DevOps/HaseebUllah-DevOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
